@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container">
         <div className="logo-container text-center mb-3">
           <div className="logo-wrapper">
-            <img src="/logo liverT PNG.png" alt="Livert Rock Pop" className="logo-img" />
+            <img src="logo liverT.jpg" alt="Livert Rock Pop" className="logo-img" />
           </div>
           <h2 className="subtitle">Reviva o melhor do passado. Curta o som do presente.</h2>
         </div>
