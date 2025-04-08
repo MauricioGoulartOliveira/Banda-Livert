@@ -1,4 +1,4 @@
-import { FaInstagram, FaWhatsapp, FaEnvelope } from 'react-icons/fa';
+//import { FaInstagram, FaWhatsapp, FaEnvelope } from 'react-icons/fa';
 
 const Header = () => {
   return (
